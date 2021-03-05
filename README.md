@@ -1,2 +1,2 @@
 # github-finder
-Project to find user profiles using github
+A Project in React js to find user profiles using github
